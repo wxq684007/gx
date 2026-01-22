@@ -203,16 +203,6 @@ http://192.168.123.1:8888/udp/239.49.0.203:8000
 http://192.168.123.1:8888/udp/239.49.0.199:8000
 #EXTINF:-1 tvg-id="" tvg-name="徐州文艺影视" tvg-logo="https://11.112114.xyz/logo/徐州文艺影视.png" group-title="地方频道",徐州文艺影视
 http://192.168.123.1:8888/udp/239.49.0.211:8000
-#EXTINF:-1 tvg-id="" tvg-name="徐州公共" tvg-logo="" group-title="地方频道",徐州4
-http://192.168.123.1:8888/udp/239.49.0.216:8000
-#EXTINF:-1 tvg-id="" tvg-name="徐州新闻综合" tvg-logo="https://11.112114.xyz/logo/徐州新闻综合.png" group-title="地方频道",徐州新闻综合
-https://pull.nicewifi.cn/live/xztv01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="徐州经济生活" tvg-logo="https://11.112114.xyz/logo/徐州经济生活.png" group-title="地方频道",徐州经济生活
-https://pull.nicewifi.cn/live/xztv02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="徐州文艺影视" tvg-logo="https://11.112114.xyz/logo/徐州文艺影视.png" group-title="地方频道",徐州文艺影视
-https://pull.nicewifi.cn/live/xztv03.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="徐州公共" tvg-logo="" group-title="地方频道",徐州4
-https://pull.nicewifi.cn/live/xztv04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="沛县新闻综合" tvg-logo="" group-title="地方频道",沛县新闻综合
 http://192.168.123.1:8888/udp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",泰州1
