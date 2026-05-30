@@ -8,7 +8,7 @@ http://192.168.123.1:8888/rtp/239.49.8.74:8000?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="CCTV",CCTV4
 http://192.168.123.1:8888/rtp/239.49.8.131:6000?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="CCTV",CCTV5
-http://192.168.123.1:8888/rtp/239.49.8.96:8000?fcc=180.100.72.185:15970
+http://192.168.123.1:8888/rtp/239.49.0.206:8000?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="CCTV",CCTV5+
 http://192.168.123.1:8888/rtp/239.49.8.18:9610?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="CCTV",CCTV6
@@ -30,7 +30,7 @@ http://192.168.123.1:8888/rtp/239.49.0.196:8000?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="CCTV",CCTV14
 http://192.168.123.1:8888/rtp/239.49.8.136:6000?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="CCTV",CCTV15
-http://192.168.123.1:8888/rtp/239.49.8.97:8000?fcc=180.100.72.185:15970
+http://192.168.123.1:8888/rtp/239.49.0.128:8000?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="1864" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="CCTV",CCTV16 4k
 http://192.168.123.1:8888/rtp/239.49.0.109:8000?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="CCTV",CCTV17
@@ -39,8 +39,6 @@ http://192.168.123.1:8888/rtp/239.49.8.132:6000?fcc=180.100.72.185:15970
 http://192.168.123.1:8888/rtp/239.49.0.82:8000?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="CCTV",CGTN英语
 http://192.168.123.1:8888/rtp/239.49.0.9:8064?fcc=180.100.72.185:15970
-#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="CCTV",重温经典
-http://192.168.123.1:11111/cwjd.php
 #EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="CCTV",重温经典
 http://219.139.43.49:44444/hls/5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="https://11.112114.xyz/logo/CETV1.png" group-title="CCTV",CETV1
@@ -141,10 +139,6 @@ http://192.168.123.1:8888/rtp/239.49.1.81:8000?fcc=180.100.72.185:15970
 http://192.168.123.1:8888/rtp/239.49.0.99:8000?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="1279" tvg-name="生活时尚" tvg-logo="https://11.112114.xyz/logo/生活时尚.png" group-title="地方频道",生活时尚
 http://192.168.123.1:8888/rtp/239.49.0.97:8000?fcc=180.100.72.185:15970
-#EXTINF:-1 tvg-id="1276" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="地方频道",全纪实
-http://192.168.123.1:8888/rtp/239.49.8.44:8036?fcc=180.100.72.185:15970
-#EXTINF:-1 tvg-id="1283" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="地方频道",游戏风云
-http://192.168.123.1:8888/rtp/239.49.8.41:8012?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="1273" tvg-name="法治天地" tvg-logo="https://11.112114.xyz/logo/法治天地.png" group-title="地方频道",法治天地
 http://192.168.123.1:8888/rtp/239.49.0.96:8000?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="1645" tvg-name="梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/liyuan.png" group-title="地方频道",梨园频道
@@ -235,6 +229,8 @@ http://192.168.123.1:8888/rtp/239.49.0.182:8000?fcc=180.100.72.185:15970
 http://192.168.123.1:8888/rtp/239.49.8.30:8000?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方频道",盐城2
 http://192.168.123.1:8888/rtp/239.49.0.88:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方频道",射阳新闻
+http://192.168.123.1:8888/rtp/239.49.0.158:8000?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方频道",铜山1
 http://192.168.123.1:8888/rtp/239.49.0.163:8000?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方频道",睢宁综合
