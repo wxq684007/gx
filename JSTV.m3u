@@ -167,10 +167,6 @@ http://192.168.123.1:8888/rtp/239.49.0.25:8192?fcc=180.100.72.185:15970
 http://192.168.123.1:8888/rtp/239.49.0.183:9434?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方频道",南京文旅
 http://192.168.123.1:8888/rtp/239.49.0.38:8000?fcc=180.100.72.185:15970
-#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方频道",南京影视
-http://192.168.123.1:8888/rtp/239.49.0.24:8000?fcc=180.100.72.185:15970
-#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方频道",南京少儿
-http://192.168.123.1:8888/rtp/239.49.0.45:8000?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方频道",十八频道
 http://192.168.123.1:8888/rtp/239.49.0.26:8200?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方频道",苏州生活资讯
